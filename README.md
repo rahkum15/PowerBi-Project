@@ -46,7 +46,7 @@ IPL DASHBOARD.pbix`: The Power BI report file containing all visuals, transforma
 
 > *(You can upload a screenshot or GIF of your dashboard in GitHub and link it here)*
 > Example:
-> ![IPL Dashboard Preview](./images/ipl_dashboard_preview.png)
+> ![IPL Dashboard Preview]((https://github.com/rahkum15/PowerBi-Project/blob/main/Snapshot%20IPL%20Dashboard.png)
 
 # 📈 Future Scope
 * Integrate **live data** using APIs for real-time IPL tracking.
